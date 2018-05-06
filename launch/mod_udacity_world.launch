@@ -27,6 +27,6 @@
 
   <!--launch rviz-->
 <!--  <node name="rviz" pkg="rviz" type="rviz" respawn="false"/>-->
-  <node pkg="rviz" type="rviz" name="rviz" args="-d /home/robond/catkin_ws/src/whereAmI.rviz"/>
+  <node pkg="rviz" type="rviz" name="rviz" args="-d /home/robond/catkin_ws/src/udacity_bot/whereAmI.rviz"/>
 
 </launch>
