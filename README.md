@@ -9,7 +9,7 @@ To launch the project and test it on the RViz and Gazebo environments, first go 
 $ cd ~/catkin_ws/
 $ source devel/setup.bash
 ```
-Then launch the nodes with the following commands on seperate terminals. 
+Then launch the nodes with the following commands on separate terminals. 
 ```
 $ roslaunch udacity_bot mod_udacity_world.launch
 $ roslaunch udacity_bot amcl_mod.launch
@@ -19,7 +19,7 @@ You will see something similar to this:
 ![readme1](https://user-images.githubusercontent.com/20925510/39756336-d91aa5b2-52d1-11e8-83be-a8f1016bb6db.JPG)
 
 If not, check your project repository. 
-If everything's fine then on a seperate terminal run the command below to send the robot to the goal position. 
+If everything's fine then on a separate terminal run the command below to send the robot to the goal position. 
 ```
 $ rosrun udacity_bot navigation_goal
 ```
