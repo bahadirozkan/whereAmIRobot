@@ -25,6 +25,6 @@ $ rosrun udacity_bot navigation_goal
 ```
 Robot should reach the goal position after some time!
 
-You can find the images of classroom and modified robots' at the goal position:
+You can find the images of classroom and modified robots at the goal position:
 + [Udacity robot](https://github.com/bahadirozkan/whereAmIRobot/blob/master/udacity_bot%20goal.JPG)
 + [Modified robot](https://github.com/bahadirozkan/whereAmIRobot/blob/master/mod_bot%20goal.JPG)
